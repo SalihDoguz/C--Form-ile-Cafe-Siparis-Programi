@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <kullanıcılar>
+    <ıd>1</ıd>
+    <kadı>user</kadı>
+    <sifre>doguz</sifre>
+  </kullanıcılar>
+  <kullanıcılar>
+    <ıd>2</ıd>
+    <kadı>denemeee</kadı>
+    <sifre>ffff</sifre>
+  </kullanıcılar>
+  <kullanıcılar>
+    <ıd>3</ıd>
+    <kadı>Ebru</kadı>
+    <sifre>idman</sifre>
+  </kullanıcılar>
+  <kullanıcılar>
+    <ıd>4</ıd>
+    <kadı>arel</kadı>
+    <sifre>okul</sifre>
+  </kullanıcılar>
+</users>

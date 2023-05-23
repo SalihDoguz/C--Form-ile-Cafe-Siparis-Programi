@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urunler>
+  <urun>
+    <ıd>1</ıd>
+    <urunadı>Filtre Kahve</urunadı>
+    <adet>4</adet>
+    <fiyat>25</fiyat>
+  </urun>
+  <urun>
+    <ıd>2</ıd>
+    <urunadı>Americano</urunadı>
+    <adet>42</adet>
+    <fiyat>12</fiyat>
+  </urun>
+  <urun>
+    <ıd>3</ıd>
+    <urunadı>Espresso</urunadı>
+    <adet>4</adet>
+    <fiyat>6</fiyat>
+  </urun>
+  <urun>
+    <ıd>4</ıd>
+    <urunadı>Cafe Latte</urunadı>
+    <adet>7</adet>
+    <fiyat>30</fiyat>
+  </urun>
+</urunler>
